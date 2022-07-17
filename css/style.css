@@ -69,7 +69,7 @@ p {
 }
 
 .bike {
-    padding: 100px 0 150px;
+    padding: 100px 0 0;
 }
 
 .bike__inner {
@@ -180,7 +180,8 @@ p {
 }
 
 .info {
-    margin-bottom: 150px;
+    padding-top: 150px;
+    margin-bottom: 50px;
 }
 
 .info__inner {
@@ -213,6 +214,7 @@ p {
 }
 
 .characteristics {
+    padding-top: 100px;
     margin-bottom: 150px;
 }
 
