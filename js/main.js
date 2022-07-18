@@ -21,5 +21,4 @@ $(function () {
             $('.page-up').fadeOut();
         }
     });
-
 }); 
