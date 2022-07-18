@@ -453,3 +453,20 @@ p {
 .footer__contacts-img {
     margin-right: 10px;
 }
+
+.page-up {
+    display: none;
+    position: fixed;
+    bottom: 120px;
+    right: 40px;
+    width: 40px;
+    height: 40px;
+}
+
+.page-up img {
+    width: 100%;
+}
+
+.page-up img:hover {
+    fill: #FF4040;
+}
