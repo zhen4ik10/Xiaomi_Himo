@@ -616,6 +616,10 @@ p {
         right: 0;
         transform: translateX(50%);
     }
+
+    .bike__subtitle {
+        margin: 0 0 35px;
+    }
 }
 
 @media screen and (max-width: 670px) {
@@ -628,7 +632,7 @@ p {
     .bike__subtitle {
         margin: 0 0 30px;
         font-size: 22px;
-        line-height: 29;
+        line-height: 29px;
     }
 
     .bike__list {
@@ -768,5 +772,9 @@ p {
 
     .menu__link {
         font-size: 12px;
+    }
+
+    .bike__title {
+        font-size: 38px;
     }
 }
