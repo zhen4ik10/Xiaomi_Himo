@@ -820,7 +820,7 @@ p {
     }
 
     .form__bike-price {
-        top: 10px;
+        top: 0;
         right: 0;
         left: auto;
         font-size: 18px;
@@ -831,6 +831,6 @@ p {
         align-items: center;
         border: 1px solid #FF4040;
         border-radius: 50%;
-        transform: translateX(90%);
+        transform: translateX(70%);
     }
 }
